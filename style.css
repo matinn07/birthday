@@ -267,7 +267,7 @@ body {
 
     transform: rotate(-9deg);
     position: relative;
-    top: 30px;   /* moves image down */
+    top: 20px;   /* moves image down */
     left: 5px; /* adjust horizontally if needed */
 }
 .cricle{
